@@ -1,2 +1,4 @@
 4th file
 added 2nd line
+added new 3rd line
+added new 4th line
